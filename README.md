@@ -1,4 +1,3 @@
-# publish_experience
-This markdown file will have details of all the steps completed to build a containerized application.
-The exercise assigned to me has been a unique experience. It enabled me to step into the world of Dockers, Though I have been working on Cloud-native projects, I did not have a direct experience of deployment. What was more gratifying was that I had the hands-on experience of understand dockers, installing the Docker desktop, and through the Windows platform and the PowerShell as the  interface, I was able to develop a sample application with the help of the instructions. Let me elaborate the activities that I performed in each step..
+# My Experience
+The exercise assigned to me has been a unique experience. It enabled me to step into the world of Dockers. Though I have been working on Cloud-native projects, I did not have a direct experience of deployment. What was more gratifying was that I had the hands-on experience to understand dockers, install the Docker desktop, and through PowerShell as the interface, I was able to develop a sample application with the help of the instructions. I have successfully used GitHub pages to publish a Markdown file.
 To read more about my experience, go to [My-Experience](https://github.com/sowmya-venkat/publish_experience/blob/main/Oracle_Exercise.docx)
